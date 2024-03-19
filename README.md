@@ -86,8 +86,6 @@ SOFTWARE. -->
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot][product-screenshot]
-
 The Command-line Application Suite aims to provide an intuitive menu system using curses, such that a user is easily able to view and run various scripts. We have tried to make the addition of new scripts as simple as possible so that the menu is easily expandable.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -186,4 +184,3 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [issues-url]: https://github.com/PalD777/CmdMenuSuite/issues
 [license-shield]: https://img.shields.io/github/license/PalD777/CmdMenuSuite.svg?style=for-the-badge
 [license-url]: https://github.com/PalD777/CmdMenuSuite/blob/master/LICENSE.txt
-[product-screenshot]: src/client/static/images/screenshot.png
